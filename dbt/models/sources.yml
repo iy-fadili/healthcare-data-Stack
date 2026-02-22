@@ -1,0 +1,32 @@
+version: 2
+
+sources:
+  - name: raw                
+    database: clinic_db         # Le nom de la base dans votre Docker Postgres
+    schema: public           
+    tables:
+      - name: patients  
+      - name: doctors
+      - name: visits
+      - name: treatments
+
+
+
+
+# version: 2
+
+#models:
+ # - name: stg_patients
+  #  columns:
+   #   - name: patient_id
+    #    tests: [not_null, unique]
+
+  #- name: stg_doctors
+   # columns:
+    #  - name: doctor_id
+     #   tests: [not_null, unique]
+
+  #- name: stg_visits
+   # columns:
+    #  - name: visit_id
+     #   tests: [not_null, unique]
