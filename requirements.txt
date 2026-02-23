@@ -1,0 +1,62 @@
+# 📦 requirements.txt
+
+```txt
+# Core
+pandas==2.2.2
+numpy==1.26.4
+
+# Database
+sqlalchemy==2.0.30
+psycopg2-binary==2.9.9
+
+# Environment management
+python-dotenv==1.0.1
+
+# dbt (PostgreSQL adapter)
+dbt-core==1.8.7
+dbt-postgres==1.8.7
+
+# Orchestration
+prefect==2.19.5
+
+# API (optional if you ingest from API)
+requests==2.32.3
+
+# Logging & utilities
+loguru==0.7.2
+```
+
+---
+
+# 🔎 Important Notes
+
+### ✅ Superset
+
+Apache Superset **ne doit pas être dans requirements.txt** si tu l’installes séparément (Docker recommandé).
+
+Si tu veux l’installer en local :
+
+```txt
+apache-superset==4.0.2
+```
+
+Mais en production → Docker est fortement recommandé.
+
+---
+
+### ✅ Power BI
+
+Power BI **ne nécessite aucune librairie Python**.
+La connexion se fait directement vers PostgreSQL via :
+
+* PostgreSQL connector
+* ODBC
+
+---
+
+# 🚀 Installation
+
+```bash
+pip install -r requirements.txt
+```
+
