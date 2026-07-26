@@ -248,7 +248,7 @@ dbt tests include:
 ## 👨‍💻 Author
 
 Ahmed Fadili
-PhD in Life Sciences | Data & Analytics 
+PhD in Life Sciences and Health ( Medical image Processing) | Data & Analytics 
 
 
 ---
