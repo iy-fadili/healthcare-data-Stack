@@ -1,139 +1,139 @@
 treatment_id,visit_id,type_traitement,cout
-1,858,MÃ©dicament,134
+1,858,Médicament,134
 2,57,Imagerie,259
-3,79,Consultation spÃ©cialisÃ©e,569
-4,218,KinÃ©sithÃ©rapie,293
-5,599,MÃ©dicament,570
+3,79,Consultation spécialisée,569
+4,218,Kinésithérapie,293
+5,599,Médicament,570
 6,974,Analyse,351
-7,323,KinÃ©sithÃ©rapie,319
-8,66,MÃ©dicament,290
+7,323,Kinésithérapie,319
+8,66,Médicament,290
 9,81,Chirurgie mineure,414
 10,747,Analyse,538
-11,31,KinÃ©sithÃ©rapie,597
+11,31,Kinésithérapie,597
 12,342,Analyse,468
 13,46,Imagerie,348
 14,656,Imagerie,145
-15,450,MÃ©dicament,149
-16,800,Consultation spÃ©cialisÃ©e,558
+15,450,Médicament,149
+16,800,Consultation spécialisée,558
 17,359,Imagerie,576
-18,306,KinÃ©sithÃ©rapie,539
+18,306,Kinésithérapie,539
 19,632,Analyse,563
 20,862,Analyse,248
-21,263,MÃ©dicament,269
+21,263,Médicament,269
 22,446,Chirurgie mineure,409
-23,19,Consultation spÃ©cialisÃ©e,83
-24,999,Consultation spÃ©cialisÃ©e,50
+23,19,Consultation spécialisée,83
+24,999,Consultation spécialisée,50
 25,272,Vaccination,245
 26,632,Chirurgie mineure,524
-27,521,KinÃ©sithÃ©rapie,366
-28,863,MÃ©dicament,327
-29,721,Consultation spÃ©cialisÃ©e,231
+27,521,Kinésithérapie,366
+28,863,Médicament,327
+29,721,Consultation spécialisée,231
 30,284,Imagerie,245
 31,728,Vaccination,128
 32,973,Analyse,197
 33,19,Analyse,363
 34,866,Chirurgie mineure,369
-35,445,KinÃ©sithÃ©rapie,158
-36,119,KinÃ©sithÃ©rapie,471
-37,212,KinÃ©sithÃ©rapie,596
+35,445,Kinésithérapie,158
+36,119,Kinésithérapie,471
+37,212,Kinésithérapie,596
 38,392,Analyse,261
 39,950,Imagerie,393
-40,968,MÃ©dicament,564
+40,968,Médicament,564
 41,565,Imagerie,432
 42,94,Imagerie,191
 43,749,Analyse,238
 44,914,Vaccination,389
-45,869,KinÃ©sithÃ©rapie,539
+45,869,Kinésithérapie,539
 46,467,Vaccination,363
 47,983,Vaccination,412
 48,115,Vaccination,296
 49,90,Imagerie,214
-50,639,Consultation spÃ©cialisÃ©e,374
-51,893,KinÃ©sithÃ©rapie,426
+50,639,Consultation spécialisée,374
+51,893,Kinésithérapie,426
 52,648,Analyse,455
 53,481,Chirurgie mineure,64
 54,119,Imagerie,117
 55,605,Analyse,506
 56,40,Chirurgie mineure,342
 57,228,Chirurgie mineure,195
-58,640,MÃ©dicament,195
+58,640,Médicament,195
 59,280,Chirurgie mineure,539
 60,603,Chirurgie mineure,184
 61,391,Vaccination,307
-62,588,Consultation spÃ©cialisÃ©e,485
+62,588,Consultation spécialisée,485
 63,86,Vaccination,385
 64,188,Imagerie,205
 65,867,Analyse,80
-66,665,MÃ©dicament,269
+66,665,Médicament,269
 67,715,Chirurgie mineure,537
 68,39,Vaccination,523
 69,952,Analyse,63
-70,113,Consultation spÃ©cialisÃ©e,471
+70,113,Consultation spécialisée,471
 71,432,Vaccination,514
 72,512,Chirurgie mineure,429
-73,156,KinÃ©sithÃ©rapie,481
+73,156,Kinésithérapie,481
 74,947,Chirurgie mineure,563
-75,936,KinÃ©sithÃ©rapie,335
+75,936,Kinésithérapie,335
 76,439,Chirurgie mineure,203
 77,307,Vaccination,226
-78,761,Consultation spÃ©cialisÃ©e,240
+78,761,Consultation spécialisée,240
 79,680,Chirurgie mineure,578
 80,559,Vaccination,170
-81,161,KinÃ©sithÃ©rapie,523
+81,161,Kinésithérapie,523
 82,445,Chirurgie mineure,53
 83,207,Chirurgie mineure,425
-84,340,KinÃ©sithÃ©rapie,124
+84,340,Kinésithérapie,124
 85,476,Imagerie,509
 86,300,Imagerie,295
-87,744,KinÃ©sithÃ©rapie,400
-88,45,KinÃ©sithÃ©rapie,200
-89,421,KinÃ©sithÃ©rapie,258
-90,491,MÃ©dicament,262
+87,744,Kinésithérapie,400
+88,45,Kinésithérapie,200
+89,421,Kinésithérapie,258
+90,491,Médicament,262
 91,358,Chirurgie mineure,443
 92,932,Chirurgie mineure,56
-93,47,MÃ©dicament,221
-94,324,MÃ©dicament,216
-95,414,MÃ©dicament,519
+93,47,Médicament,221
+94,324,Médicament,216
+95,414,Médicament,519
 96,454,Vaccination,63
 97,772,Chirurgie mineure,392
 98,844,Analyse,474
-99,671,Consultation spÃ©cialisÃ©e,369
+99,671,Consultation spécialisée,369
 100,173,Vaccination,364
-101,808,KinÃ©sithÃ©rapie,536
-102,685,KinÃ©sithÃ©rapie,381
+101,808,Kinésithérapie,536
+102,685,Kinésithérapie,381
 103,629,Chirurgie mineure,478
-104,701,MÃ©dicament,62
-105,252,MÃ©dicament,551
-106,291,Consultation spÃ©cialisÃ©e,150
+104,701,Médicament,62
+105,252,Médicament,551
+106,291,Consultation spécialisée,150
 107,169,Analyse,532
 108,32,Vaccination,485
-109,568,Consultation spÃ©cialisÃ©e,444
-110,286,MÃ©dicament,221
+109,568,Consultation spécialisée,444
+110,286,Médicament,221
 111,599,Chirurgie mineure,218
 112,177,Analyse,538
-113,690,Consultation spÃ©cialisÃ©e,394
+113,690,Consultation spécialisée,394
 114,194,Analyse,331
 115,818,Chirurgie mineure,116
-116,971,KinÃ©sithÃ©rapie,543
+116,971,Kinésithérapie,543
 117,993,Imagerie,350
 118,932,Analyse,549
 119,915,Vaccination,550
-120,217,KinÃ©sithÃ©rapie,131
+120,217,Kinésithérapie,131
 121,361,Vaccination,550
 122,326,Analyse,428
-123,438,MÃ©dicament,470
+123,438,Médicament,470
 124,556,Imagerie,454
 125,464,Vaccination,188
 126,977,Analyse,361
 127,744,Analyse,484
-128,779,KinÃ©sithÃ©rapie,544
-129,669,MÃ©dicament,572
-130,532,Consultation spÃ©cialisÃ©e,436
-131,835,MÃ©dicament,539
+128,779,Kinésithérapie,544
+129,669,Médicament,572
+130,532,Consultation spécialisée,436
+131,835,Médicament,539
 132,185,Imagerie,129
-133,693,KinÃ©sithÃ©rapie,56
-134,531,KinÃ©sithÃ©rapie,82
-135,540,Consultation spÃ©cialisÃ©e,589
+133,693,Kinésithérapie,56
+134,531,Kinésithérapie,82
+135,540,Consultation spécialisée,589
 136,911,Analyse,341
 137,599,Vaccination,388
 138,774,Imagerie,350
@@ -141,108 +141,108 @@ treatment_id,visit_id,type_traitement,cout
 140,126,Imagerie,172
 141,380,Vaccination,558
 142,912,Imagerie,263
-143,676,MÃ©dicament,317
+143,676,Médicament,317
 144,28,Analyse,455
 145,11,Imagerie,299
-146,959,MÃ©dicament,401
+146,959,Médicament,401
 147,392,Analyse,111
-148,272,Consultation spÃ©cialisÃ©e,286
+148,272,Consultation spécialisée,286
 149,498,Chirurgie mineure,97
 150,400,Analyse,320
 151,854,Imagerie,64
 152,236,Analyse,499
-153,447,MÃ©dicament,439
+153,447,Médicament,439
 154,903,Vaccination,61
-155,23,Consultation spÃ©cialisÃ©e,298
+155,23,Consultation spécialisée,298
 156,632,Imagerie,468
 157,663,Analyse,209
-158,107,KinÃ©sithÃ©rapie,325
+158,107,Kinésithérapie,325
 159,685,Analyse,74
-160,760,KinÃ©sithÃ©rapie,517
+160,760,Kinésithérapie,517
 161,432,Vaccination,78
-162,908,KinÃ©sithÃ©rapie,537
+162,908,Kinésithérapie,537
 163,494,Vaccination,280
-164,359,Consultation spÃ©cialisÃ©e,82
+164,359,Consultation spécialisée,82
 165,512,Chirurgie mineure,506
 166,141,Analyse,436
-167,862,KinÃ©sithÃ©rapie,198
+167,862,Kinésithérapie,198
 168,154,Analyse,540
-169,62,MÃ©dicament,190
+169,62,Médicament,190
 170,184,Vaccination,285
-171,479,Consultation spÃ©cialisÃ©e,168
+171,479,Consultation spécialisée,168
 172,537,Imagerie,578
 173,866,Analyse,594
 174,364,Analyse,341
 175,666,Vaccination,75
 176,936,Vaccination,501
 177,596,Imagerie,233
-178,980,KinÃ©sithÃ©rapie,295
-179,48,KinÃ©sithÃ©rapie,493
+178,980,Kinésithérapie,295
+179,48,Kinésithérapie,493
 180,48,Imagerie,218
-181,404,MÃ©dicament,263
-182,293,Consultation spÃ©cialisÃ©e,134
+181,404,Médicament,263
+182,293,Consultation spécialisée,134
 183,163,Analyse,418
 184,466,Vaccination,227
-185,934,KinÃ©sithÃ©rapie,436
-186,729,Consultation spÃ©cialisÃ©e,245
-187,389,KinÃ©sithÃ©rapie,433
-188,610,MÃ©dicament,114
-189,23,Consultation spÃ©cialisÃ©e,492
-190,522,KinÃ©sithÃ©rapie,407
+185,934,Kinésithérapie,436
+186,729,Consultation spécialisée,245
+187,389,Kinésithérapie,433
+188,610,Médicament,114
+189,23,Consultation spécialisée,492
+190,522,Kinésithérapie,407
 191,289,Analyse,235
 192,169,Imagerie,197
 193,111,Chirurgie mineure,582
 194,786,Vaccination,409
 195,446,Chirurgie mineure,418
 196,178,Vaccination,181
-197,818,Consultation spÃ©cialisÃ©e,528
-198,716,MÃ©dicament,571
+197,818,Consultation spécialisée,528
+198,716,Médicament,571
 199,255,Chirurgie mineure,143
 200,381,Imagerie,302
-201,934,MÃ©dicament,262
+201,934,Médicament,262
 202,57,Analyse,106
-203,47,Consultation spÃ©cialisÃ©e,443
-204,57,MÃ©dicament,117
-205,682,KinÃ©sithÃ©rapie,303
+203,47,Consultation spécialisée,443
+204,57,Médicament,117
+205,682,Kinésithérapie,303
 206,824,Analyse,301
-207,68,MÃ©dicament,308
+207,68,Médicament,308
 208,733,Vaccination,132
-209,268,MÃ©dicament,596
+209,268,Médicament,596
 210,433,Imagerie,230
-211,91,Consultation spÃ©cialisÃ©e,138
+211,91,Consultation spécialisée,138
 212,975,Analyse,274
 213,731,Vaccination,168
-214,678,MÃ©dicament,427
+214,678,Médicament,427
 215,747,Chirurgie mineure,485
 216,69,Chirurgie mineure,289
-217,152,MÃ©dicament,85
+217,152,Médicament,85
 218,878,Imagerie,470
 219,336,Vaccination,452
 220,402,Analyse,192
-221,384,MÃ©dicament,313
-222,980,MÃ©dicament,424
+221,384,Médicament,313
+222,980,Médicament,424
 223,450,Chirurgie mineure,471
 224,970,Analyse,204
 225,963,Analyse,359
 226,850,Analyse,196
-227,742,KinÃ©sithÃ©rapie,208
+227,742,Kinésithérapie,208
 228,14,Chirurgie mineure,501
-229,378,Consultation spÃ©cialisÃ©e,267
+229,378,Consultation spécialisée,267
 230,980,Imagerie,133
 231,510,Analyse,295
-232,832,Consultation spÃ©cialisÃ©e,125
+232,832,Consultation spécialisée,125
 233,232,Analyse,360
-234,693,KinÃ©sithÃ©rapie,551
+234,693,Kinésithérapie,551
 235,649,Chirurgie mineure,194
-236,642,MÃ©dicament,93
+236,642,Médicament,93
 237,919,Vaccination,84
 238,738,Imagerie,67
 239,736,Chirurgie mineure,274
 240,562,Analyse,326
-241,772,KinÃ©sithÃ©rapie,332
+241,772,Kinésithérapie,332
 242,510,Imagerie,504
 243,493,Vaccination,515
-244,529,Consultation spÃ©cialisÃ©e,445
+244,529,Consultation spécialisée,445
 245,459,Chirurgie mineure,410
 246,670,Vaccination,66
 247,995,Imagerie,566
@@ -251,320 +251,320 @@ treatment_id,visit_id,type_traitement,cout
 250,101,Imagerie,304
 251,611,Imagerie,101
 252,635,Imagerie,585
-253,564,Consultation spÃ©cialisÃ©e,216
+253,564,Consultation spécialisée,216
 254,378,Analyse,133
 255,480,Chirurgie mineure,427
-256,890,MÃ©dicament,353
-257,223,MÃ©dicament,212
-258,585,MÃ©dicament,92
+256,890,Médicament,353
+257,223,Médicament,212
+258,585,Médicament,92
 259,603,Vaccination,537
-260,995,MÃ©dicament,406
-261,314,Consultation spÃ©cialisÃ©e,115
-262,548,KinÃ©sithÃ©rapie,351
-263,575,KinÃ©sithÃ©rapie,539
+260,995,Médicament,406
+261,314,Consultation spécialisée,115
+262,548,Kinésithérapie,351
+263,575,Kinésithérapie,539
 264,274,Imagerie,416
-265,234,Consultation spÃ©cialisÃ©e,556
+265,234,Consultation spécialisée,556
 266,263,Chirurgie mineure,163
 267,791,Vaccination,416
-268,403,MÃ©dicament,406
+268,403,Médicament,406
 269,775,Imagerie,599
 270,222,Chirurgie mineure,361
 271,616,Analyse,374
 272,645,Analyse,541
-273,463,KinÃ©sithÃ©rapie,83
-274,193,Consultation spÃ©cialisÃ©e,470
-275,171,Consultation spÃ©cialisÃ©e,439
-276,172,Consultation spÃ©cialisÃ©e,437
-277,33,MÃ©dicament,386
+273,463,Kinésithérapie,83
+274,193,Consultation spécialisée,470
+275,171,Consultation spécialisée,439
+276,172,Consultation spécialisée,437
+277,33,Médicament,386
 278,131,Vaccination,560
-279,224,KinÃ©sithÃ©rapie,460
+279,224,Kinésithérapie,460
 280,94,Imagerie,452
-281,656,Consultation spÃ©cialisÃ©e,496
+281,656,Consultation spécialisée,496
 282,267,Chirurgie mineure,67
 283,154,Imagerie,402
 284,777,Vaccination,142
 285,146,Analyse,431
-286,558,MÃ©dicament,479
+286,558,Médicament,479
 287,557,Analyse,266
 288,617,Imagerie,187
 289,68,Chirurgie mineure,225
 290,271,Imagerie,189
-291,465,MÃ©dicament,351
+291,465,Médicament,351
 292,977,Chirurgie mineure,61
 293,370,Imagerie,179
-294,306,MÃ©dicament,431
-295,296,MÃ©dicament,474
+294,306,Médicament,431
+295,296,Médicament,474
 296,105,Chirurgie mineure,433
-297,241,KinÃ©sithÃ©rapie,246
+297,241,Kinésithérapie,246
 298,786,Chirurgie mineure,81
-299,294,Consultation spÃ©cialisÃ©e,208
+299,294,Consultation spécialisée,208
 300,668,Vaccination,434
 301,264,Vaccination,323
-302,973,KinÃ©sithÃ©rapie,220
+302,973,Kinésithérapie,220
 303,143,Chirurgie mineure,582
 304,786,Imagerie,161
-305,505,Consultation spÃ©cialisÃ©e,583
+305,505,Consultation spécialisée,583
 306,59,Analyse,373
-307,516,KinÃ©sithÃ©rapie,363
-308,413,MÃ©dicament,495
-309,668,KinÃ©sithÃ©rapie,596
-310,215,MÃ©dicament,419
-311,399,Consultation spÃ©cialisÃ©e,235
+307,516,Kinésithérapie,363
+308,413,Médicament,495
+309,668,Kinésithérapie,596
+310,215,Médicament,419
+311,399,Consultation spécialisée,235
 312,243,Chirurgie mineure,283
 313,260,Vaccination,271
-314,27,MÃ©dicament,331
+314,27,Médicament,331
 315,484,Imagerie,238
 316,882,Analyse,115
-317,65,MÃ©dicament,144
+317,65,Médicament,144
 318,540,Imagerie,316
-319,579,MÃ©dicament,166
+319,579,Médicament,166
 320,396,Imagerie,442
-321,587,KinÃ©sithÃ©rapie,382
-322,935,MÃ©dicament,339
+321,587,Kinésithérapie,382
+322,935,Médicament,339
 323,186,Chirurgie mineure,340
 324,323,Analyse,463
 325,192,Vaccination,250
 326,833,Vaccination,133
 327,815,Vaccination,256
-328,83,KinÃ©sithÃ©rapie,471
-329,814,KinÃ©sithÃ©rapie,75
-330,687,KinÃ©sithÃ©rapie,589
+328,83,Kinésithérapie,471
+329,814,Kinésithérapie,75
+330,687,Kinésithérapie,589
 331,90,Imagerie,509
 332,296,Imagerie,404
 333,480,Chirurgie mineure,141
-334,606,MÃ©dicament,406
-335,79,MÃ©dicament,182
-336,165,Consultation spÃ©cialisÃ©e,554
-337,143,Consultation spÃ©cialisÃ©e,457
+334,606,Médicament,406
+335,79,Médicament,182
+336,165,Consultation spécialisée,554
+337,143,Consultation spécialisée,457
 338,404,Vaccination,257
 339,890,Imagerie,287
-340,92,MÃ©dicament,424
+340,92,Médicament,424
 341,457,Analyse,367
 342,458,Chirurgie mineure,134
-343,400,KinÃ©sithÃ©rapie,583
+343,400,Kinésithérapie,583
 344,128,Chirurgie mineure,256
-345,244,Consultation spÃ©cialisÃ©e,218
-346,83,KinÃ©sithÃ©rapie,511
-347,28,KinÃ©sithÃ©rapie,179
+345,244,Consultation spécialisée,218
+346,83,Kinésithérapie,511
+347,28,Kinésithérapie,179
 348,928,Chirurgie mineure,180
-349,519,MÃ©dicament,253
-350,728,KinÃ©sithÃ©rapie,108
+349,519,Médicament,253
+350,728,Kinésithérapie,108
 351,235,Chirurgie mineure,444
 352,896,Vaccination,336
 353,371,Analyse,127
-354,156,KinÃ©sithÃ©rapie,82
-355,800,MÃ©dicament,198
-356,303,KinÃ©sithÃ©rapie,227
-357,48,Consultation spÃ©cialisÃ©e,599
+354,156,Kinésithérapie,82
+355,800,Médicament,198
+356,303,Kinésithérapie,227
+357,48,Consultation spécialisée,599
 358,978,Chirurgie mineure,575
-359,701,Consultation spÃ©cialisÃ©e,136
+359,701,Consultation spécialisée,136
 360,146,Vaccination,581
 361,482,Imagerie,563
 362,352,Chirurgie mineure,161
-363,514,MÃ©dicament,590
-364,737,KinÃ©sithÃ©rapie,365
-365,106,KinÃ©sithÃ©rapie,212
+363,514,Médicament,590
+364,737,Kinésithérapie,365
+365,106,Kinésithérapie,212
 366,220,Analyse,586
-367,855,MÃ©dicament,192
-368,999,Consultation spÃ©cialisÃ©e,228
-369,758,KinÃ©sithÃ©rapie,590
-370,767,Consultation spÃ©cialisÃ©e,468
-371,344,KinÃ©sithÃ©rapie,147
+367,855,Médicament,192
+368,999,Consultation spécialisée,228
+369,758,Kinésithérapie,590
+370,767,Consultation spécialisée,468
+371,344,Kinésithérapie,147
 372,417,Analyse,547
 373,443,Vaccination,542
 374,624,Analyse,241
 375,812,Chirurgie mineure,108
 376,235,Vaccination,389
-377,836,KinÃ©sithÃ©rapie,150
+377,836,Kinésithérapie,150
 378,480,Chirurgie mineure,515
 379,866,Chirurgie mineure,134
 380,225,Imagerie,322
 381,987,Imagerie,297
 382,913,Analyse,158
-383,234,MÃ©dicament,187
+383,234,Médicament,187
 384,563,Imagerie,130
-385,704,MÃ©dicament,341
+385,704,Médicament,341
 386,602,Chirurgie mineure,338
-387,178,MÃ©dicament,84
+387,178,Médicament,84
 388,534,Analyse,599
-389,965,KinÃ©sithÃ©rapie,392
+389,965,Kinésithérapie,392
 390,805,Analyse,253
 391,56,Chirurgie mineure,205
-392,879,MÃ©dicament,115
-393,852,MÃ©dicament,383
+392,879,Médicament,115
+393,852,Médicament,383
 394,881,Chirurgie mineure,52
 395,338,Analyse,594
 396,561,Vaccination,93
 397,264,Chirurgie mineure,122
-398,656,Consultation spÃ©cialisÃ©e,85
+398,656,Consultation spécialisée,85
 399,61,Analyse,318
 400,744,Chirurgie mineure,423
-401,466,Consultation spÃ©cialisÃ©e,184
-402,910,KinÃ©sithÃ©rapie,174
+401,466,Consultation spécialisée,184
+402,910,Kinésithérapie,174
 403,521,Chirurgie mineure,417
 404,335,Analyse,118
 405,3,Imagerie,313
 406,302,Imagerie,111
-407,977,Consultation spÃ©cialisÃ©e,449
+407,977,Consultation spécialisée,449
 408,133,Analyse,118
-409,980,MÃ©dicament,421
-410,102,MÃ©dicament,493
+409,980,Médicament,421
+410,102,Médicament,493
 411,126,Vaccination,72
-412,93,KinÃ©sithÃ©rapie,530
+412,93,Kinésithérapie,530
 413,787,Chirurgie mineure,437
 414,848,Vaccination,191
 415,533,Imagerie,116
-416,490,Consultation spÃ©cialisÃ©e,309
+416,490,Consultation spécialisée,309
 417,326,Vaccination,330
-418,735,KinÃ©sithÃ©rapie,77
-419,1000,MÃ©dicament,195
+418,735,Kinésithérapie,77
+419,1000,Médicament,195
 420,74,Imagerie,475
-421,806,Consultation spÃ©cialisÃ©e,455
+421,806,Consultation spécialisée,455
 422,336,Imagerie,501
 423,119,Imagerie,578
-424,253,KinÃ©sithÃ©rapie,474
+424,253,Kinésithérapie,474
 425,331,Vaccination,466
-426,53,KinÃ©sithÃ©rapie,175
+426,53,Kinésithérapie,175
 427,364,Analyse,536
 428,279,Vaccination,551
-429,740,Consultation spÃ©cialisÃ©e,587
+429,740,Consultation spécialisée,587
 430,912,Vaccination,322
 431,914,Vaccination,489
 432,597,Analyse,403
 433,439,Imagerie,450
-434,610,MÃ©dicament,435
-435,810,Consultation spÃ©cialisÃ©e,174
-436,409,MÃ©dicament,233
+434,610,Médicament,435
+435,810,Consultation spécialisée,174
+436,409,Médicament,233
 437,973,Chirurgie mineure,538
 438,452,Analyse,548
 439,145,Vaccination,513
 440,51,Imagerie,94
-441,768,Consultation spÃ©cialisÃ©e,375
-442,30,MÃ©dicament,268
-443,472,MÃ©dicament,584
-444,576,MÃ©dicament,360
+441,768,Consultation spécialisée,375
+442,30,Médicament,268
+443,472,Médicament,584
+444,576,Médicament,360
 445,85,Vaccination,236
 446,954,Analyse,138
 447,197,Analyse,295
-448,141,MÃ©dicament,286
+448,141,Médicament,286
 449,306,Vaccination,208
 450,775,Analyse,518
 451,553,Chirurgie mineure,119
 452,779,Analyse,58
-453,492,KinÃ©sithÃ©rapie,219
+453,492,Kinésithérapie,219
 454,565,Analyse,218
 455,493,Vaccination,445
 456,536,Vaccination,225
 457,137,Vaccination,599
 458,269,Analyse,53
-459,665,Consultation spÃ©cialisÃ©e,428
-460,322,MÃ©dicament,169
+459,665,Consultation spécialisée,428
+460,322,Médicament,169
 461,888,Imagerie,381
 462,772,Chirurgie mineure,204
 463,807,Imagerie,285
 464,740,Chirurgie mineure,446
 465,491,Vaccination,103
 466,205,Imagerie,289
-467,914,KinÃ©sithÃ©rapie,297
+467,914,Kinésithérapie,297
 468,480,Imagerie,371
-469,985,MÃ©dicament,309
-470,624,KinÃ©sithÃ©rapie,189
+469,985,Médicament,309
+470,624,Kinésithérapie,189
 471,864,Analyse,516
 472,678,Chirurgie mineure,490
-473,35,Consultation spÃ©cialisÃ©e,332
+473,35,Consultation spécialisée,332
 474,75,Imagerie,77
-475,38,KinÃ©sithÃ©rapie,113
+475,38,Kinésithérapie,113
 476,122,Chirurgie mineure,153
 477,691,Analyse,220
-478,890,KinÃ©sithÃ©rapie,58
+478,890,Kinésithérapie,58
 479,499,Analyse,84
-480,819,KinÃ©sithÃ©rapie,149
+480,819,Kinésithérapie,149
 481,84,Imagerie,52
-482,786,KinÃ©sithÃ©rapie,136
-483,73,KinÃ©sithÃ©rapie,383
+482,786,Kinésithérapie,136
+483,73,Kinésithérapie,383
 484,448,Analyse,528
-485,489,MÃ©dicament,440
-486,620,MÃ©dicament,500
+485,489,Médicament,440
+486,620,Médicament,500
 487,604,Imagerie,309
-488,801,KinÃ©sithÃ©rapie,326
-489,806,Consultation spÃ©cialisÃ©e,117
-490,534,KinÃ©sithÃ©rapie,293
-491,969,KinÃ©sithÃ©rapie,561
+488,801,Kinésithérapie,326
+489,806,Consultation spécialisée,117
+490,534,Kinésithérapie,293
+491,969,Kinésithérapie,561
 492,680,Chirurgie mineure,385
 493,679,Chirurgie mineure,275
-494,961,KinÃ©sithÃ©rapie,390
+494,961,Kinésithérapie,390
 495,770,Vaccination,182
-496,266,MÃ©dicament,568
+496,266,Médicament,568
 497,167,Chirurgie mineure,212
 498,370,Chirurgie mineure,258
-499,54,MÃ©dicament,135
-500,829,MÃ©dicament,315
-501,692,Consultation spÃ©cialisÃ©e,366
+499,54,Médicament,135
+500,829,Médicament,315
+501,692,Consultation spécialisée,366
 502,518,Imagerie,148
 503,70,Vaccination,304
 504,940,Chirurgie mineure,213
-505,950,KinÃ©sithÃ©rapie,443
-506,56,Consultation spÃ©cialisÃ©e,376
+505,950,Kinésithérapie,443
+506,56,Consultation spécialisée,376
 507,957,Imagerie,218
 508,133,Imagerie,429
 509,207,Chirurgie mineure,342
-510,119,Consultation spÃ©cialisÃ©e,404
-511,967,KinÃ©sithÃ©rapie,266
-512,846,MÃ©dicament,425
-513,209,MÃ©dicament,276
-514,137,MÃ©dicament,181
+510,119,Consultation spécialisée,404
+511,967,Kinésithérapie,266
+512,846,Médicament,425
+513,209,Médicament,276
+514,137,Médicament,181
 515,285,Imagerie,442
-516,671,KinÃ©sithÃ©rapie,69
+516,671,Kinésithérapie,69
 517,64,Vaccination,73
 518,343,Vaccination,536
 519,369,Analyse,157
-520,56,MÃ©dicament,507
+520,56,Médicament,507
 521,640,Chirurgie mineure,104
-522,187,Consultation spÃ©cialisÃ©e,163
+522,187,Consultation spécialisée,163
 523,793,Chirurgie mineure,436
 524,320,Vaccination,145
-525,171,MÃ©dicament,431
+525,171,Médicament,431
 526,897,Vaccination,283
-527,684,Consultation spÃ©cialisÃ©e,387
-528,237,KinÃ©sithÃ©rapie,425
-529,500,MÃ©dicament,407
+527,684,Consultation spécialisée,387
+528,237,Kinésithérapie,425
+529,500,Médicament,407
 530,171,Analyse,557
-531,882,KinÃ©sithÃ©rapie,279
+531,882,Kinésithérapie,279
 532,180,Chirurgie mineure,224
-533,862,KinÃ©sithÃ©rapie,490
+533,862,Kinésithérapie,490
 534,586,Chirurgie mineure,232
-535,204,MÃ©dicament,463
-536,983,KinÃ©sithÃ©rapie,371
-537,995,KinÃ©sithÃ©rapie,155
+535,204,Médicament,463
+536,983,Kinésithérapie,371
+537,995,Kinésithérapie,155
 538,540,Vaccination,185
-539,191,MÃ©dicament,82
+539,191,Médicament,82
 540,254,Vaccination,208
-541,840,KinÃ©sithÃ©rapie,207
-542,265,KinÃ©sithÃ©rapie,303
-543,814,MÃ©dicament,212
+541,840,Kinésithérapie,207
+542,265,Kinésithérapie,303
+543,814,Médicament,212
 544,81,Chirurgie mineure,313
 545,277,Chirurgie mineure,445
 546,56,Chirurgie mineure,53
 547,769,Vaccination,234
-548,795,Consultation spÃ©cialisÃ©e,74
+548,795,Consultation spécialisée,74
 549,138,Chirurgie mineure,450
 550,90,Chirurgie mineure,503
-551,379,MÃ©dicament,151
+551,379,Médicament,151
 552,330,Vaccination,242
-553,250,Consultation spÃ©cialisÃ©e,238
+553,250,Consultation spécialisée,238
 554,606,Imagerie,423
-555,512,KinÃ©sithÃ©rapie,221
+555,512,Kinésithérapie,221
 556,140,Vaccination,353
 557,301,Vaccination,335
-558,772,MÃ©dicament,53
+558,772,Médicament,53
 559,143,Analyse,182
 560,921,Imagerie,542
 561,578,Chirurgie mineure,561
-562,72,KinÃ©sithÃ©rapie,420
+562,72,Kinésithérapie,420
 563,872,Vaccination,194
 564,369,Imagerie,157
-565,968,KinÃ©sithÃ©rapie,247
-566,952,KinÃ©sithÃ©rapie,497
+565,968,Kinésithérapie,247
+566,952,Kinésithérapie,497
 567,83,Vaccination,258
 568,686,Vaccination,187
 569,15,Imagerie,234
@@ -572,34 +572,34 @@ treatment_id,visit_id,type_traitement,cout
 571,277,Chirurgie mineure,591
 572,838,Chirurgie mineure,87
 573,990,Chirurgie mineure,290
-574,805,KinÃ©sithÃ©rapie,162
+574,805,Kinésithérapie,162
 575,317,Imagerie,576
-576,468,MÃ©dicament,166
-577,327,Consultation spÃ©cialisÃ©e,577
+576,468,Médicament,166
+577,327,Consultation spécialisée,577
 578,846,Analyse,193
-579,272,MÃ©dicament,491
+579,272,Médicament,491
 580,926,Imagerie,357
-581,839,KinÃ©sithÃ©rapie,547
-582,885,MÃ©dicament,374
+581,839,Kinésithérapie,547
+582,885,Médicament,374
 583,466,Imagerie,324
-584,819,Consultation spÃ©cialisÃ©e,468
-585,695,KinÃ©sithÃ©rapie,189
-586,57,Consultation spÃ©cialisÃ©e,224
+584,819,Consultation spécialisée,468
+585,695,Kinésithérapie,189
+586,57,Consultation spécialisée,224
 587,268,Analyse,401
-588,324,MÃ©dicament,96
-589,15,MÃ©dicament,364
-590,656,Consultation spÃ©cialisÃ©e,415
-591,64,MÃ©dicament,404
+588,324,Médicament,96
+589,15,Médicament,364
+590,656,Consultation spécialisée,415
+591,64,Médicament,404
 592,84,Chirurgie mineure,366
 593,321,Chirurgie mineure,389
-594,392,Consultation spÃ©cialisÃ©e,395
+594,392,Consultation spécialisée,395
 595,990,Vaccination,492
 596,141,Analyse,97
-597,361,KinÃ©sithÃ©rapie,438
+597,361,Kinésithérapie,438
 598,231,Vaccination,468
 599,47,Vaccination,91
 600,880,Analyse,204
-601,229,KinÃ©sithÃ©rapie,477
+601,229,Kinésithérapie,477
 602,314,Imagerie,151
 603,299,Vaccination,452
 604,585,Imagerie,278
@@ -608,35 +608,35 @@ treatment_id,visit_id,type_traitement,cout
 607,143,Vaccination,246
 608,874,Chirurgie mineure,405
 609,339,Chirurgie mineure,219
-610,72,Consultation spÃ©cialisÃ©e,102
-611,138,Consultation spÃ©cialisÃ©e,283
+610,72,Consultation spécialisée,102
+611,138,Consultation spécialisée,283
 612,165,Imagerie,383
 613,310,Vaccination,136
 614,156,Vaccination,327
-615,648,Consultation spÃ©cialisÃ©e,450
-616,30,KinÃ©sithÃ©rapie,520
+615,648,Consultation spécialisée,450
+616,30,Kinésithérapie,520
 617,630,Vaccination,174
-618,379,Consultation spÃ©cialisÃ©e,61
-619,86,KinÃ©sithÃ©rapie,470
-620,318,MÃ©dicament,213
+618,379,Consultation spécialisée,61
+619,86,Kinésithérapie,470
+620,318,Médicament,213
 621,614,Vaccination,157
 622,96,Vaccination,168
 623,27,Vaccination,419
 624,29,Imagerie,347
-625,748,Consultation spÃ©cialisÃ©e,247
-626,499,MÃ©dicament,480
+625,748,Consultation spécialisée,247
+626,499,Médicament,480
 627,458,Imagerie,422
 628,3,Analyse,190
 629,697,Vaccination,553
-630,448,MÃ©dicament,350
+630,448,Médicament,350
 631,936,Analyse,333
-632,43,KinÃ©sithÃ©rapie,69
+632,43,Kinésithérapie,69
 633,310,Vaccination,403
 634,366,Chirurgie mineure,551
-635,543,Consultation spÃ©cialisÃ©e,240
-636,878,MÃ©dicament,298
+635,543,Consultation spécialisée,240
+636,878,Médicament,298
 637,902,Chirurgie mineure,423
-638,622,Consultation spÃ©cialisÃ©e,599
+638,622,Consultation spécialisée,599
 639,472,Imagerie,115
 640,224,Analyse,529
 641,149,Imagerie,442
@@ -645,81 +645,81 @@ treatment_id,visit_id,type_traitement,cout
 644,192,Chirurgie mineure,198
 645,943,Vaccination,242
 646,395,Analyse,80
-647,104,MÃ©dicament,179
-648,210,MÃ©dicament,423
-649,288,MÃ©dicament,55
-650,895,MÃ©dicament,544
+647,104,Médicament,179
+648,210,Médicament,423
+649,288,Médicament,55
+650,895,Médicament,544
 651,113,Analyse,109
 652,196,Imagerie,286
-653,794,MÃ©dicament,473
+653,794,Médicament,473
 654,270,Analyse,540
 655,403,Chirurgie mineure,356
 656,433,Vaccination,455
 657,898,Analyse,161
 658,733,Chirurgie mineure,283
 659,317,Imagerie,281
-660,311,Consultation spÃ©cialisÃ©e,543
+660,311,Consultation spécialisée,543
 661,357,Vaccination,534
 662,770,Chirurgie mineure,301
 663,541,Chirurgie mineure,422
 664,935,Imagerie,566
-665,860,MÃ©dicament,165
-666,57,MÃ©dicament,307
-667,37,MÃ©dicament,484
-668,814,MÃ©dicament,144
+665,860,Médicament,165
+666,57,Médicament,307
+667,37,Médicament,484
+668,814,Médicament,144
 669,407,Analyse,78
-670,530,MÃ©dicament,511
-671,214,MÃ©dicament,231
+670,530,Médicament,511
+671,214,Médicament,231
 672,577,Vaccination,297
-673,940,MÃ©dicament,494
+673,940,Médicament,494
 674,61,Analyse,328
-675,717,KinÃ©sithÃ©rapie,389
+675,717,Kinésithérapie,389
 676,860,Analyse,568
-677,398,MÃ©dicament,433
+677,398,Médicament,433
 678,917,Chirurgie mineure,239
-679,332,Consultation spÃ©cialisÃ©e,518
+679,332,Consultation spécialisée,518
 680,109,Imagerie,67
 681,612,Chirurgie mineure,306
-682,626,KinÃ©sithÃ©rapie,429
+682,626,Kinésithérapie,429
 683,768,Vaccination,297
 684,630,Analyse,146
-685,627,KinÃ©sithÃ©rapie,93
+685,627,Kinésithérapie,93
 686,197,Chirurgie mineure,354
 687,361,Analyse,312
 688,760,Imagerie,596
 689,994,Chirurgie mineure,173
 690,72,Vaccination,318
-691,167,MÃ©dicament,138
-692,892,MÃ©dicament,473
-693,702,KinÃ©sithÃ©rapie,125
+691,167,Médicament,138
+692,892,Médicament,473
+693,702,Kinésithérapie,125
 694,502,Chirurgie mineure,505
 695,633,Vaccination,76
 696,333,Imagerie,99
 697,231,Imagerie,258
-698,988,Consultation spÃ©cialisÃ©e,386
+698,988,Consultation spécialisée,386
 699,789,Chirurgie mineure,439
-700,718,KinÃ©sithÃ©rapie,141
+700,718,Kinésithérapie,141
 701,694,Chirurgie mineure,371
 702,258,Analyse,281
-703,987,KinÃ©sithÃ©rapie,212
+703,987,Kinésithérapie,212
 704,387,Imagerie,573
-705,342,MÃ©dicament,203
-706,519,KinÃ©sithÃ©rapie,396
-707,251,Consultation spÃ©cialisÃ©e,531
+705,342,Médicament,203
+706,519,Kinésithérapie,396
+707,251,Consultation spécialisée,531
 708,672,Vaccination,321
-709,355,KinÃ©sithÃ©rapie,589
-710,345,MÃ©dicament,295
+709,355,Kinésithérapie,589
+710,345,Médicament,295
 711,575,Analyse,71
 712,78,Imagerie,568
-713,665,KinÃ©sithÃ©rapie,214
+713,665,Kinésithérapie,214
 714,666,Analyse,149
-715,32,KinÃ©sithÃ©rapie,232
+715,32,Kinésithérapie,232
 716,737,Analyse,447
 717,459,Chirurgie mineure,397
 718,976,Analyse,283
-719,601,Consultation spÃ©cialisÃ©e,502
+719,601,Consultation spécialisée,502
 720,941,Imagerie,527
-721,448,KinÃ©sithÃ©rapie,489
+721,448,Kinésithérapie,489
 722,717,Vaccination,432
 723,23,Chirurgie mineure,590
 724,577,Chirurgie mineure,51
@@ -727,273 +727,273 @@ treatment_id,visit_id,type_traitement,cout
 726,494,Chirurgie mineure,430
 727,727,Chirurgie mineure,108
 728,631,Chirurgie mineure,168
-729,520,Consultation spÃ©cialisÃ©e,489
+729,520,Consultation spécialisée,489
 730,494,Chirurgie mineure,299
 731,235,Imagerie,76
-732,538,Consultation spÃ©cialisÃ©e,549
-733,562,KinÃ©sithÃ©rapie,148
+732,538,Consultation spécialisée,549
+733,562,Kinésithérapie,148
 734,942,Chirurgie mineure,352
 735,570,Imagerie,333
 736,931,Vaccination,478
-737,72,Consultation spÃ©cialisÃ©e,262
-738,338,MÃ©dicament,258
-739,514,KinÃ©sithÃ©rapie,260
-740,506,KinÃ©sithÃ©rapie,67
-741,154,KinÃ©sithÃ©rapie,111
-742,276,Consultation spÃ©cialisÃ©e,454
+737,72,Consultation spécialisée,262
+738,338,Médicament,258
+739,514,Kinésithérapie,260
+740,506,Kinésithérapie,67
+741,154,Kinésithérapie,111
+742,276,Consultation spécialisée,454
 743,126,Vaccination,513
-744,983,MÃ©dicament,474
+744,983,Médicament,474
 745,174,Imagerie,501
-746,890,MÃ©dicament,244
+746,890,Médicament,244
 747,142,Chirurgie mineure,535
 748,10,Analyse,599
 749,674,Vaccination,471
 750,323,Vaccination,442
 751,26,Chirurgie mineure,408
-752,478,KinÃ©sithÃ©rapie,467
-753,328,Consultation spÃ©cialisÃ©e,346
+752,478,Kinésithérapie,467
+753,328,Consultation spécialisée,346
 754,888,Analyse,343
-755,565,KinÃ©sithÃ©rapie,215
+755,565,Kinésithérapie,215
 756,605,Vaccination,227
-757,732,Consultation spÃ©cialisÃ©e,102
+757,732,Consultation spécialisée,102
 758,777,Vaccination,435
 759,201,Vaccination,170
 760,929,Vaccination,379
 761,740,Chirurgie mineure,361
-762,773,MÃ©dicament,571
+762,773,Médicament,571
 763,410,Imagerie,429
 764,767,Vaccination,149
-765,935,MÃ©dicament,390
-766,708,KinÃ©sithÃ©rapie,546
+765,935,Médicament,390
+766,708,Kinésithérapie,546
 767,916,Vaccination,406
 768,389,Chirurgie mineure,524
 769,844,Imagerie,252
-770,252,MÃ©dicament,240
+770,252,Médicament,240
 771,397,Vaccination,276
 772,18,Vaccination,466
 773,932,Vaccination,597
-774,621,KinÃ©sithÃ©rapie,563
+774,621,Kinésithérapie,563
 775,786,Imagerie,114
-776,835,MÃ©dicament,91
+776,835,Médicament,91
 777,317,Chirurgie mineure,82
 778,744,Imagerie,536
 779,539,Vaccination,282
 780,470,Chirurgie mineure,66
 781,950,Analyse,242
-782,141,Consultation spÃ©cialisÃ©e,324
-783,566,MÃ©dicament,119
-784,897,KinÃ©sithÃ©rapie,72
-785,278,KinÃ©sithÃ©rapie,117
+782,141,Consultation spécialisée,324
+783,566,Médicament,119
+784,897,Kinésithérapie,72
+785,278,Kinésithérapie,117
 786,902,Chirurgie mineure,495
-787,5,KinÃ©sithÃ©rapie,363
-788,704,MÃ©dicament,454
-789,86,MÃ©dicament,301
-790,992,MÃ©dicament,325
+787,5,Kinésithérapie,363
+788,704,Médicament,454
+789,86,Médicament,301
+790,992,Médicament,325
 791,614,Chirurgie mineure,535
 792,339,Analyse,581
-793,309,KinÃ©sithÃ©rapie,52
+793,309,Kinésithérapie,52
 794,237,Analyse,90
 795,800,Imagerie,291
-796,984,Consultation spÃ©cialisÃ©e,220
-797,328,Consultation spÃ©cialisÃ©e,340
+796,984,Consultation spécialisée,220
+797,328,Consultation spécialisée,340
 798,335,Chirurgie mineure,146
 799,835,Imagerie,339
-800,551,KinÃ©sithÃ©rapie,296
+800,551,Kinésithérapie,296
 801,901,Vaccination,189
 802,75,Chirurgie mineure,295
 803,979,Chirurgie mineure,225
 804,502,Analyse,403
 805,673,Vaccination,148
 806,126,Vaccination,529
-807,176,MÃ©dicament,444
+807,176,Médicament,444
 808,394,Chirurgie mineure,580
 809,182,Vaccination,223
 810,822,Vaccination,321
-811,915,Consultation spÃ©cialisÃ©e,230
+811,915,Consultation spécialisée,230
 812,648,Chirurgie mineure,158
-813,502,KinÃ©sithÃ©rapie,370
+813,502,Kinésithérapie,370
 814,797,Analyse,153
-815,393,MÃ©dicament,308
+815,393,Médicament,308
 816,55,Analyse,353
-817,102,Consultation spÃ©cialisÃ©e,328
+817,102,Consultation spécialisée,328
 818,727,Chirurgie mineure,381
 819,980,Vaccination,581
-820,436,Consultation spÃ©cialisÃ©e,197
-821,800,MÃ©dicament,490
-822,57,KinÃ©sithÃ©rapie,429
+820,436,Consultation spécialisée,197
+821,800,Médicament,490
+822,57,Kinésithérapie,429
 823,141,Vaccination,80
 824,536,Vaccination,197
 825,2,Chirurgie mineure,527
-826,44,Consultation spÃ©cialisÃ©e,375
-827,681,MÃ©dicament,349
-828,672,KinÃ©sithÃ©rapie,456
+826,44,Consultation spécialisée,375
+827,681,Médicament,349
+828,672,Kinésithérapie,456
 829,810,Vaccination,293
 830,798,Imagerie,147
 831,821,Imagerie,380
 832,471,Analyse,103
 833,413,Vaccination,292
-834,935,KinÃ©sithÃ©rapie,433
-835,146,Consultation spÃ©cialisÃ©e,189
+834,935,Kinésithérapie,433
+835,146,Consultation spécialisée,189
 836,439,Analyse,407
 837,8,Chirurgie mineure,558
-838,574,MÃ©dicament,533
+838,574,Médicament,533
 839,136,Chirurgie mineure,137
 840,500,Imagerie,218
 841,661,Vaccination,397
 842,782,Vaccination,245
 843,828,Analyse,157
-844,197,Consultation spÃ©cialisÃ©e,411
+844,197,Consultation spécialisée,411
 845,385,Imagerie,190
-846,512,KinÃ©sithÃ©rapie,303
-847,486,KinÃ©sithÃ©rapie,234
+846,512,Kinésithérapie,303
+847,486,Kinésithérapie,234
 848,31,Vaccination,252
 849,890,Vaccination,160
 850,784,Imagerie,339
-851,721,MÃ©dicament,163
-852,584,Consultation spÃ©cialisÃ©e,511
+851,721,Médicament,163
+852,584,Consultation spécialisée,511
 853,428,Analyse,439
 854,289,Analyse,250
 855,379,Imagerie,286
-856,837,MÃ©dicament,508
+856,837,Médicament,508
 857,337,Imagerie,282
-858,40,MÃ©dicament,235
+858,40,Médicament,235
 859,965,Analyse,259
 860,280,Imagerie,183
 861,441,Analyse,531
-862,926,Consultation spÃ©cialisÃ©e,299
-863,434,Consultation spÃ©cialisÃ©e,390
-864,166,KinÃ©sithÃ©rapie,407
-865,579,Consultation spÃ©cialisÃ©e,217
+862,926,Consultation spécialisée,299
+863,434,Consultation spécialisée,390
+864,166,Kinésithérapie,407
+865,579,Consultation spécialisée,217
 866,956,Analyse,328
 867,648,Chirurgie mineure,117
 868,452,Chirurgie mineure,148
 869,237,Imagerie,377
 870,348,Vaccination,121
-871,226,MÃ©dicament,519
-872,957,Consultation spÃ©cialisÃ©e,297
+871,226,Médicament,519
+872,957,Consultation spécialisée,297
 873,550,Vaccination,163
-874,982,Consultation spÃ©cialisÃ©e,66
-875,955,KinÃ©sithÃ©rapie,265
-876,456,MÃ©dicament,342
+874,982,Consultation spécialisée,66
+875,955,Kinésithérapie,265
+876,456,Médicament,342
 877,713,Vaccination,148
 878,193,Analyse,127
-879,489,MÃ©dicament,239
-880,716,Consultation spÃ©cialisÃ©e,132
-881,505,MÃ©dicament,225
+879,489,Médicament,239
+880,716,Consultation spécialisée,132
+881,505,Médicament,225
 882,780,Vaccination,412
 883,521,Imagerie,129
-884,416,Consultation spÃ©cialisÃ©e,345
+884,416,Consultation spécialisée,345
 885,991,Chirurgie mineure,354
 886,464,Chirurgie mineure,225
 887,736,Analyse,75
 888,44,Chirurgie mineure,324
-889,443,MÃ©dicament,487
-890,959,MÃ©dicament,235
-891,605,Consultation spÃ©cialisÃ©e,582
+889,443,Médicament,487
+890,959,Médicament,235
+891,605,Consultation spécialisée,582
 892,9,Imagerie,166
-893,837,Consultation spÃ©cialisÃ©e,383
-894,913,MÃ©dicament,243
-895,498,KinÃ©sithÃ©rapie,476
+893,837,Consultation spécialisée,383
+894,913,Médicament,243
+895,498,Kinésithérapie,476
 896,381,Chirurgie mineure,429
 897,323,Chirurgie mineure,590
-898,324,MÃ©dicament,333
-899,941,MÃ©dicament,265
+898,324,Médicament,333
+899,941,Médicament,265
 900,903,Vaccination,315
-901,737,KinÃ©sithÃ©rapie,510
+901,737,Kinésithérapie,510
 902,391,Imagerie,270
-903,669,MÃ©dicament,103
+903,669,Médicament,103
 904,384,Imagerie,352
 905,456,Chirurgie mineure,499
 906,941,Imagerie,339
 907,456,Analyse,56
-908,567,Consultation spÃ©cialisÃ©e,107
+908,567,Consultation spécialisée,107
 909,988,Chirurgie mineure,197
 910,824,Imagerie,530
 911,926,Analyse,535
-912,579,KinÃ©sithÃ©rapie,373
+912,579,Kinésithérapie,373
 913,178,Imagerie,548
 914,878,Vaccination,151
-915,622,KinÃ©sithÃ©rapie,200
-916,703,KinÃ©sithÃ©rapie,330
+915,622,Kinésithérapie,200
+916,703,Kinésithérapie,330
 917,193,Imagerie,247
 918,470,Chirurgie mineure,501
 919,223,Vaccination,235
 920,676,Imagerie,600
-921,236,MÃ©dicament,89
+921,236,Médicament,89
 922,666,Analyse,537
 923,312,Analyse,565
 924,328,Chirurgie mineure,298
-925,186,KinÃ©sithÃ©rapie,407
+925,186,Kinésithérapie,407
 926,331,Chirurgie mineure,290
-927,203,Consultation spÃ©cialisÃ©e,359
-928,571,Consultation spÃ©cialisÃ©e,585
-929,790,KinÃ©sithÃ©rapie,243
-930,283,Consultation spÃ©cialisÃ©e,117
+927,203,Consultation spécialisée,359
+928,571,Consultation spécialisée,585
+929,790,Kinésithérapie,243
+930,283,Consultation spécialisée,117
 931,973,Chirurgie mineure,341
-932,246,Consultation spÃ©cialisÃ©e,561
+932,246,Consultation spécialisée,561
 933,132,Vaccination,304
 934,174,Chirurgie mineure,176
-935,595,Consultation spÃ©cialisÃ©e,466
-936,747,KinÃ©sithÃ©rapie,263
+935,595,Consultation spécialisée,466
+936,747,Kinésithérapie,263
 937,441,Chirurgie mineure,366
-938,936,KinÃ©sithÃ©rapie,58
+938,936,Kinésithérapie,58
 939,95,Chirurgie mineure,527
 940,730,Imagerie,324
-941,742,Consultation spÃ©cialisÃ©e,190
-942,790,Consultation spÃ©cialisÃ©e,331
+941,742,Consultation spécialisée,190
+942,790,Consultation spécialisée,331
 943,370,Chirurgie mineure,412
 944,407,Vaccination,475
 945,423,Chirurgie mineure,521
-946,71,MÃ©dicament,176
-947,435,MÃ©dicament,139
+946,71,Médicament,176
+947,435,Médicament,139
 948,551,Analyse,487
 949,856,Vaccination,362
 950,294,Analyse,476
-951,191,Consultation spÃ©cialisÃ©e,596
-952,522,Consultation spÃ©cialisÃ©e,373
+951,191,Consultation spécialisée,596
+952,522,Consultation spécialisée,373
 953,313,Vaccination,369
-954,513,KinÃ©sithÃ©rapie,540
-955,50,KinÃ©sithÃ©rapie,273
-956,860,KinÃ©sithÃ©rapie,87
-957,872,MÃ©dicament,393
+954,513,Kinésithérapie,540
+955,50,Kinésithérapie,273
+956,860,Kinésithérapie,87
+957,872,Médicament,393
 958,852,Vaccination,552
-959,106,Consultation spÃ©cialisÃ©e,526
+959,106,Consultation spécialisée,526
 960,664,Imagerie,394
 961,111,Analyse,283
 962,542,Analyse,459
-963,963,KinÃ©sithÃ©rapie,103
+963,963,Kinésithérapie,103
 964,905,Vaccination,157
 965,442,Vaccination,431
 966,844,Analyse,422
 967,988,Analyse,491
 968,705,Vaccination,276
-969,804,KinÃ©sithÃ©rapie,531
+969,804,Kinésithérapie,531
 970,20,Imagerie,262
 971,671,Vaccination,132
-972,79,KinÃ©sithÃ©rapie,379
-973,495,KinÃ©sithÃ©rapie,147
+972,79,Kinésithérapie,379
+973,495,Kinésithérapie,147
 974,423,Analyse,545
 975,613,Analyse,503
 976,127,Analyse,485
-977,882,Consultation spÃ©cialisÃ©e,355
+977,882,Consultation spécialisée,355
 978,538,Vaccination,247
-979,945,Consultation spÃ©cialisÃ©e,376
-980,411,MÃ©dicament,557
+979,945,Consultation spécialisée,376
+980,411,Médicament,557
 981,741,Analyse,122
-982,378,Consultation spÃ©cialisÃ©e,107
+982,378,Consultation spécialisée,107
 983,734,Analyse,59
-984,19,MÃ©dicament,579
+984,19,Médicament,579
 985,200,Analyse,397
 986,786,Imagerie,524
-987,937,Consultation spÃ©cialisÃ©e,205
-988,798,KinÃ©sithÃ©rapie,367
-989,450,Consultation spÃ©cialisÃ©e,164
+987,937,Consultation spécialisée,205
+988,798,Kinésithérapie,367
+989,450,Consultation spécialisée,164
 990,582,Vaccination,152
 991,264,Vaccination,342
-992,793,MÃ©dicament,257
-993,520,Consultation spÃ©cialisÃ©e,310
+992,793,Médicament,257
+993,520,Consultation spécialisée,310
 994,289,Imagerie,273
-995,826,Consultation spÃ©cialisÃ©e,80
+995,826,Consultation spécialisée,80
 996,191,Chirurgie mineure,187
 997,494,Chirurgie mineure,443
 998,823,Imagerie,88
@@ -1002,24 +1002,24 @@ treatment_id,visit_id,type_traitement,cout
 1001,696,Analyse,139
 1002,710,Chirurgie mineure,372
 1003,196,Vaccination,583
-1004,793,Consultation spÃ©cialisÃ©e,105
+1004,793,Consultation spécialisée,105
 1005,626,Imagerie,244
 1006,711,Vaccination,458
 1007,312,Chirurgie mineure,55
 1008,323,Analyse,199
-1009,735,KinÃ©sithÃ©rapie,466
-1010,218,MÃ©dicament,260
+1009,735,Kinésithérapie,466
+1010,218,Médicament,260
 1011,345,Vaccination,198
 1012,532,Vaccination,385
-1013,3,KinÃ©sithÃ©rapie,131
-1014,518,MÃ©dicament,297
+1013,3,Kinésithérapie,131
+1014,518,Médicament,297
 1015,886,Chirurgie mineure,164
 1016,106,Vaccination,243
-1017,144,Consultation spÃ©cialisÃ©e,218
-1018,839,MÃ©dicament,390
+1017,144,Consultation spécialisée,218
+1018,839,Médicament,390
 1019,576,Analyse,450
-1020,393,MÃ©dicament,455
-1021,709,Consultation spÃ©cialisÃ©e,474
+1020,393,Médicament,455
+1021,709,Consultation spécialisée,474
 1022,406,Imagerie,291
 1023,968,Vaccination,140
 1024,186,Imagerie,152
@@ -1033,53 +1033,53 @@ treatment_id,visit_id,type_traitement,cout
 1032,559,Analyse,185
 1033,57,Imagerie,432
 1034,985,Imagerie,522
-1035,178,MÃ©dicament,176
+1035,178,Médicament,176
 1036,1,Vaccination,223
-1037,712,MÃ©dicament,134
-1038,334,MÃ©dicament,497
-1039,696,MÃ©dicament,516
-1040,136,MÃ©dicament,395
-1041,514,Consultation spÃ©cialisÃ©e,294
-1042,851,Consultation spÃ©cialisÃ©e,291
+1037,712,Médicament,134
+1038,334,Médicament,497
+1039,696,Médicament,516
+1040,136,Médicament,395
+1041,514,Consultation spécialisée,294
+1042,851,Consultation spécialisée,291
 1043,973,Chirurgie mineure,57
 1044,619,Analyse,254
-1045,543,MÃ©dicament,341
+1045,543,Médicament,341
 1046,808,Analyse,212
-1047,657,Consultation spÃ©cialisÃ©e,460
-1048,736,MÃ©dicament,72
+1047,657,Consultation spécialisée,460
+1048,736,Médicament,72
 1049,181,Chirurgie mineure,350
 1050,235,Chirurgie mineure,173
-1051,272,KinÃ©sithÃ©rapie,230
+1051,272,Kinésithérapie,230
 1052,865,Chirurgie mineure,50
 1053,792,Analyse,556
 1054,685,Vaccination,412
 1055,771,Chirurgie mineure,551
 1056,326,Imagerie,241
 1057,545,Chirurgie mineure,491
-1058,774,Consultation spÃ©cialisÃ©e,459
-1059,680,KinÃ©sithÃ©rapie,437
+1058,774,Consultation spécialisée,459
+1059,680,Kinésithérapie,437
 1060,344,Vaccination,215
-1061,17,Consultation spÃ©cialisÃ©e,141
-1062,854,MÃ©dicament,417
-1063,86,MÃ©dicament,496
+1061,17,Consultation spécialisée,141
+1062,854,Médicament,417
+1063,86,Médicament,496
 1064,361,Chirurgie mineure,195
-1065,558,Consultation spÃ©cialisÃ©e,234
+1065,558,Consultation spécialisée,234
 1066,948,Imagerie,144
-1067,529,KinÃ©sithÃ©rapie,216
+1067,529,Kinésithérapie,216
 1068,875,Vaccination,264
 1069,656,Vaccination,234
-1070,696,MÃ©dicament,246
-1071,162,Consultation spÃ©cialisÃ©e,491
+1070,696,Médicament,246
+1071,162,Consultation spécialisée,491
 1072,677,Imagerie,541
 1073,62,Vaccination,334
-1074,430,KinÃ©sithÃ©rapie,388
+1074,430,Kinésithérapie,388
 1075,63,Vaccination,563
 1076,333,Vaccination,216
-1077,869,Consultation spÃ©cialisÃ©e,250
+1077,869,Consultation spécialisée,250
 1078,442,Analyse,335
 1079,173,Analyse,239
-1080,738,MÃ©dicament,189
-1081,764,Consultation spÃ©cialisÃ©e,113
+1080,738,Médicament,189
+1081,764,Consultation spécialisée,113
 1082,680,Chirurgie mineure,470
 1083,163,Vaccination,398
 1084,71,Analyse,393
@@ -1091,111 +1091,111 @@ treatment_id,visit_id,type_traitement,cout
 1090,618,Imagerie,370
 1091,42,Imagerie,140
 1092,299,Vaccination,559
-1093,426,MÃ©dicament,289
-1094,286,MÃ©dicament,195
+1093,426,Médicament,289
+1094,286,Médicament,195
 1095,858,Imagerie,480
 1096,779,Chirurgie mineure,178
-1097,705,KinÃ©sithÃ©rapie,430
-1098,822,Consultation spÃ©cialisÃ©e,250
+1097,705,Kinésithérapie,430
+1098,822,Consultation spécialisée,250
 1099,684,Vaccination,269
 1100,59,Analyse,377
 1101,987,Analyse,442
-1102,916,MÃ©dicament,466
+1102,916,Médicament,466
 1103,409,Vaccination,531
 1104,507,Imagerie,451
 1105,803,Vaccination,285
-1106,520,Consultation spÃ©cialisÃ©e,152
+1106,520,Consultation spécialisée,152
 1107,280,Chirurgie mineure,378
 1108,536,Chirurgie mineure,372
-1109,222,KinÃ©sithÃ©rapie,368
+1109,222,Kinésithérapie,368
 1110,222,Vaccination,90
 1111,17,Chirurgie mineure,435
 1112,648,Vaccination,258
 1113,456,Imagerie,118
-1114,189,Consultation spÃ©cialisÃ©e,292
+1114,189,Consultation spécialisée,292
 1115,259,Analyse,70
 1116,536,Chirurgie mineure,312
 1117,710,Analyse,370
-1118,869,Consultation spÃ©cialisÃ©e,258
+1118,869,Consultation spécialisée,258
 1119,36,Imagerie,112
 1120,690,Analyse,182
-1121,367,MÃ©dicament,596
-1122,55,MÃ©dicament,303
+1121,367,Médicament,596
+1122,55,Médicament,303
 1123,592,Vaccination,438
 1124,536,Imagerie,461
 1125,668,Analyse,435
 1126,638,Vaccination,155
 1127,292,Chirurgie mineure,540
-1128,355,KinÃ©sithÃ©rapie,428
+1128,355,Kinésithérapie,428
 1129,220,Analyse,423
 1130,807,Vaccination,560
-1131,580,MÃ©dicament,297
+1131,580,Médicament,297
 1132,61,Analyse,350
 1133,992,Vaccination,258
 1134,918,Chirurgie mineure,278
-1135,764,Consultation spÃ©cialisÃ©e,148
+1135,764,Consultation spécialisée,148
 1136,720,Analyse,222
 1137,855,Analyse,217
-1138,222,MÃ©dicament,593
+1138,222,Médicament,593
 1139,895,Chirurgie mineure,202
 1140,660,Analyse,242
-1141,499,Consultation spÃ©cialisÃ©e,357
+1141,499,Consultation spécialisée,357
 1142,756,Chirurgie mineure,143
-1143,474,KinÃ©sithÃ©rapie,505
+1143,474,Kinésithérapie,505
 1144,391,Vaccination,585
 1145,909,Imagerie,189
-1146,733,KinÃ©sithÃ©rapie,368
+1146,733,Kinésithérapie,368
 1147,206,Analyse,189
-1148,873,KinÃ©sithÃ©rapie,101
-1149,607,MÃ©dicament,179
-1150,636,Consultation spÃ©cialisÃ©e,472
+1148,873,Kinésithérapie,101
+1149,607,Médicament,179
+1150,636,Consultation spécialisée,472
 1151,255,Chirurgie mineure,538
 1152,987,Chirurgie mineure,466
 1153,555,Imagerie,393
 1154,967,Analyse,462
-1155,170,Consultation spÃ©cialisÃ©e,177
-1156,760,MÃ©dicament,522
-1157,175,Consultation spÃ©cialisÃ©e,459
-1158,572,KinÃ©sithÃ©rapie,146
+1155,170,Consultation spécialisée,177
+1156,760,Médicament,522
+1157,175,Consultation spécialisée,459
+1158,572,Kinésithérapie,146
 1159,124,Analyse,574
-1160,301,KinÃ©sithÃ©rapie,480
-1161,959,KinÃ©sithÃ©rapie,86
+1160,301,Kinésithérapie,480
+1161,959,Kinésithérapie,86
 1162,143,Vaccination,533
 1163,79,Chirurgie mineure,197
 1164,820,Imagerie,320
-1165,532,Consultation spÃ©cialisÃ©e,546
+1165,532,Consultation spécialisée,546
 1166,667,Analyse,542
 1167,79,Analyse,65
 1168,632,Imagerie,255
 1169,914,Vaccination,540
 1170,547,Imagerie,94
-1171,808,MÃ©dicament,143
-1172,660,KinÃ©sithÃ©rapie,458
+1171,808,Médicament,143
+1172,660,Kinésithérapie,458
 1173,634,Imagerie,187
-1174,991,MÃ©dicament,360
+1174,991,Médicament,360
 1175,782,Analyse,208
 1176,1,Vaccination,402
-1177,446,MÃ©dicament,162
+1177,446,Médicament,162
 1178,168,Imagerie,323
-1179,233,MÃ©dicament,312
-1180,971,MÃ©dicament,565
-1181,811,Consultation spÃ©cialisÃ©e,467
+1179,233,Médicament,312
+1180,971,Médicament,565
+1181,811,Consultation spécialisée,467
 1182,833,Analyse,445
 1183,368,Analyse,397
 1184,371,Chirurgie mineure,128
-1185,742,KinÃ©sithÃ©rapie,189
+1185,742,Kinésithérapie,189
 1186,516,Chirurgie mineure,95
 1187,861,Chirurgie mineure,336
-1188,887,KinÃ©sithÃ©rapie,279
-1189,100,KinÃ©sithÃ©rapie,292
+1188,887,Kinésithérapie,279
+1189,100,Kinésithérapie,292
 1190,982,Analyse,172
-1191,791,MÃ©dicament,148
+1191,791,Médicament,148
 1192,952,Chirurgie mineure,106
-1193,115,Consultation spÃ©cialisÃ©e,530
+1193,115,Consultation spécialisée,530
 1194,423,Chirurgie mineure,599
-1195,593,KinÃ©sithÃ©rapie,492
+1195,593,Kinésithérapie,492
 1196,952,Imagerie,576
 1197,356,Imagerie,219
 1198,996,Chirurgie mineure,518
-1199,901,Consultation spÃ©cialisÃ©e,336
+1199,901,Consultation spécialisée,336
 1200,637,Vaccination,473
