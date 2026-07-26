@@ -147,8 +147,8 @@ data-stack-project/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/iy-fadili/FADILI-AHMED.git
-cd data-stack
+git clone https://github.com/iy-fadili/healthcare-data-Stack.git
+cd healthcare-data-Stack
 ```
 
 ---
