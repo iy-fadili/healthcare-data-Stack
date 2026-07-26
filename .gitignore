@@ -1,21 +1,28 @@
 # Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+.env
 
-__pycache__/   # Dossier créé automatiquement par Python pour stocker les fichiers compilés (.pyc) afin d'accélérer l'exécution
-*.pyc          # Ignore tous les fichiers Python compilés (bytecode)
-venv/          # Ignore l'environnement virtuel Python (bibliothèques installées localement)
-.env           # Ignore le fichier contenant les variables d'environnement (souvent des infos sensibles comme mots de passe ou clés API)
+# dbt generated artifacts
+dbt/target/
+dbt/logs/
+logs/
+dbt_packages/
 
-# dbt
+# Power BI temporary files
+powerbi/*preview*.png
+powerbi/powerbi_*.png
+powerbi/*backup*.pbix
+powerbi/dashboard_rebuilt.pbix
 
-dbt_packages/  # Dossier contenant les dépendances installées par dbt (outil de transformation de données)
-target/        # Dossier généré automatiquement par dbt avec les résultats des compilations/exécutions
-logs/          # Dossier contenant les fichiers de logs (journaux d'exécution) de dbt
+# Keep final Power BI deliverable
+!powerbi/dashboard_healthcare_clean.pbix
 
-# Power BI
-
-*.pbix         # Ignore les fichiers Power BI (rapports et tableaux de bord)
-
-# OS
-
-.DS_Store      # Fichier caché créé automatiquement par macOS pour stocker les préférences d'affichage des dossiers
-Thumbs.db      # Fichier créé par Windows pour stocker les miniatures des images dans un dossier
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
